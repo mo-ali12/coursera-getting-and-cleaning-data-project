@@ -1,4 +1,4 @@
-                              #Getting and Cleaning Data Course Project
+                              #Getting and Cleaning Data Project
 
 This repository is for Getting and Cleaning Data course project.
 
